@@ -107,3 +107,14 @@ erDiagram
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 
 ```
+
+## Code
+
+Code block example.
+
+```python
+import numpy as np
+
+print("Hello, world!")
+
+```
