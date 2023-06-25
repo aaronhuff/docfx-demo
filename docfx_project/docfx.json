@@ -47,7 +47,7 @@
     "fileMetadataFiles": [],
     "template": [
       "default",
-      "modern"
+      "material/material"
     ],
     "postProcessors": [],
     "keepFileLink": false,
