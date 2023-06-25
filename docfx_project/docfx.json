@@ -23,7 +23,7 @@
       {
         "files": [
           "api/**.yml",
-          "api/index.md"
+          "api/index.md",
           "articles/**.md",
           "articles/**/toc.yml",
           "support/**.md",
