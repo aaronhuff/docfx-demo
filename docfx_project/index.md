@@ -3,6 +3,7 @@ Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to wri
 ## Quick Start Notes:
 1. Add images to the *images* folder if the file is referencing an image.
 
+## Alerts
 > [!NOTE]
 > This is a note.
 
@@ -18,10 +19,12 @@ Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to wri
 > [!WARNING]
 > This is a warning.
 
+## Video
 This is an embeded video:
 
 > [!Video https://www.youtube.com/embed/Sz1lCeedcPI]
 
+## Mermaid
 Testing mermaid support
 
 ```mermaid
