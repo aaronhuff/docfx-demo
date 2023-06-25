@@ -33,6 +33,14 @@
           "toc.yml",
           "*.md"
         ]
+      },
+      {
+        "support": [
+          "support/**.md",
+          "support/**/toc.yml",
+          "toc.yml",
+          "*.md"
+        ]
       }
     ],
     "resource": [
