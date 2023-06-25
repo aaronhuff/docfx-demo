@@ -47,9 +47,29 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
+      "type": "Conceptual",
+      "source_relative_path": "support/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "support/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "support/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "support/toc.html"
+        },
+        ".json": {
+          "relative_path": "support/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
