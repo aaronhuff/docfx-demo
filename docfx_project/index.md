@@ -18,3 +18,7 @@ Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to wri
 > [!WARNING]
 > This is a warning.
 
+This is an embeded video:
+
+> [!Video https://www.youtube.com/embed/Sz1lCeedcPI]
+
